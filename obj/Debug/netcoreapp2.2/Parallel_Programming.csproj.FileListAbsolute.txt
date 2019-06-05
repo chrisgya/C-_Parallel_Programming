@@ -1,0 +1,11 @@
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\bin\Debug\netcoreapp2.2\Parallel_Programming.deps.json
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\bin\Debug\netcoreapp2.2\Parallel_Programming.runtimeconfig.json
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\bin\Debug\netcoreapp2.2\Parallel_Programming.runtimeconfig.dev.json
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\bin\Debug\netcoreapp2.2\Parallel_Programming.dll
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\obj\Debug\netcoreapp2.2\Parallel_Programming.csprojAssemblyReference.cache
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\obj\Debug\netcoreapp2.2\Parallel_Programming.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\obj\Debug\netcoreapp2.2\Parallel_Programming.AssemblyInfoInputs.cache
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\obj\Debug\netcoreapp2.2\Parallel_Programming.AssemblyInfo.cs
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\bin\Debug\netcoreapp2.2\Parallel_Programming.pdb
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\obj\Debug\netcoreapp2.2\Parallel_Programming.dll
+C:\Projects\dotnet\Parallel_Programming\Parallel_Programming\obj\Debug\netcoreapp2.2\Parallel_Programming.pdb

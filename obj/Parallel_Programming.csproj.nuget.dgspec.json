@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\dotnet\\Parallel_Programming\\Parallel_Programming\\Parallel_Programming.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\dotnet\\Parallel_Programming\\Parallel_Programming\\Parallel_Programming.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\dotnet\\Parallel_Programming\\Parallel_Programming\\Parallel_Programming.csproj",
+        "projectName": "Parallel_Programming",
+        "projectPath": "C:\\Projects\\dotnet\\Parallel_Programming\\Parallel_Programming\\Parallel_Programming.csproj",
+        "packagesPath": "C:\\Users\\ishmael.gyaban\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\dotnet\\Parallel_Programming\\Parallel_Programming\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ishmael.gyaban\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.11.5, )"
+            },
+            "BenchmarkDotNet.Core": {
+              "target": "Package",
+              "version": "[0.10.14, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
